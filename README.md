@@ -1,1 +1,2 @@
-# lab_work_transliteration
+# Repository structure
+The .ipynb file contains a transducer and a sample of working code
